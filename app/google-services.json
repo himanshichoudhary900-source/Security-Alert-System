@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405768090851",
+    "project_id": "securityalertsystem-4c4dd",
+    "storage_bucket": "securityalertsystem-4c4dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405768090851:android:90ac9ddbbfdae5259d81d6",
+        "android_client_info": {
+          "package_name": "com.example.securityalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfs9bv_1TlwvGx3Q9yi_wGuL9R6bdCUQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
